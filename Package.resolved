@@ -10,11 +10,11 @@
       }
     },
     {
-      "identity" : "swift-syntax",
+      "identity" : "swift-syntax-prebuilt",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/swiftlang/swift-syntax",
+      "location" : "https://github.com/memoto/swift-syntax-prebuilt",
       "state" : {
-        "revision" : "0687f71944021d616d34d922343dcef086855920",
+        "revision" : "1662d7abdbbbb7bece43462007690552d05eda86",
         "version" : "600.0.1"
       }
     },
